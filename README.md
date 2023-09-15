@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/akashic-games/coe-plguin/blob/main/img/akashic.png"/>
+<img src="https://raw.githubusercontent.com/akashic-games/coe-plugin/main/img/akashic.png"/>
 </p>
 
 # coe-plugin
