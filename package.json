@@ -24,8 +24,8 @@
     "lib"
   ],
   "dependencies": {
-    "@akashic-extension/coe-messages": "~3.0.0",
-    "@akashic/playlog": "~3.1.0"
+    "@akashic-extension/coe-messages": "~3.3.1",
+    "@akashic/playlog": "^3.2.0"
   },
   "devDependencies": {
     "@akashic/remark-preset-lint": "^0.1.1",
